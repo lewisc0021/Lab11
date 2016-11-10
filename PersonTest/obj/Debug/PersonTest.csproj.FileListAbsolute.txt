@@ -1,0 +1,8 @@
+C:\Users\lewis\Documents\Visual Studio 2015\Projects\Lab11\PersonTest\obj\Debug\PersonTest.csprojResolveAssemblyReference.cache
+C:\Users\lewis\Documents\Visual Studio 2015\Projects\Lab11\PersonTest\bin\Debug\PersonTest.dll
+C:\Users\lewis\Documents\Visual Studio 2015\Projects\Lab11\PersonTest\bin\Debug\PersonTest.pdb
+C:\Users\lewis\Documents\Visual Studio 2015\Projects\Lab11\PersonTest\bin\Debug\Lab11.exe
+C:\Users\lewis\Documents\Visual Studio 2015\Projects\Lab11\PersonTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\lewis\Documents\Visual Studio 2015\Projects\Lab11\PersonTest\bin\Debug\Lab11.pdb
+C:\Users\lewis\Documents\Visual Studio 2015\Projects\Lab11\PersonTest\obj\Debug\PersonTest.dll
+C:\Users\lewis\Documents\Visual Studio 2015\Projects\Lab11\PersonTest\obj\Debug\PersonTest.pdb
